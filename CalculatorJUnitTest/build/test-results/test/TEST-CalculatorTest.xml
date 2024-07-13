@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-07-13T09:01:43" hostname="MacBook-Pro-MrDima.local" time="0.012">
+  <properties/>
+  <testcase name="whenInputIncorrectValueThenThrowException()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="divide()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="add()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="minus()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="multi()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="whenAddTenToFiveThenResultFifteen()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="when5AddTo10AsStringThenResult15()" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
